@@ -1,0 +1,22 @@
+Before running make sure the computer has Python installed .
+Also make sure that Pandas is also Installed . (If not , go to command prompt and enter "pip install pandas")
+
+-------------------------------------
+
+Usernames and Passwords :
+
+1) Meenakshi Pradeep  - meenu20
+2) Devika Manoj           - devu15
+3) Arjun Pramod           - aju_p7
+4) Anil S A                    - anilsa
+5) Rohan Rajesh           - roraj
+
+-------------------------------------
+
+To login as Admin :
+ 
+Username  : Admin
+Password   : admin@123
+
+
+
